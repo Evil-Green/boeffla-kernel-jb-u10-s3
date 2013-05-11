@@ -1,0 +1,5 @@
+#!/system/bin/sh
+#exFat support
+#Control exFat drivers to support exFat formatted external SD cards:
+#On (default)
+
